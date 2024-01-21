@@ -13,6 +13,7 @@ export const Wrap = styled.div`
     width: 320px;
     margin: 0 auto;
     padding: 10px;
+    min-height: 100vh;
   }
 `
 
